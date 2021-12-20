@@ -1,0 +1,65 @@
+rcs file: /cvsroot/programanalysis/src/analysej/example/example.java,v
+rcs file: /cvsroot/programanalysis/src/analysej/typeanalysis/agesentypeinference.java,v
+removed bugs in garbagecollection
+mainly bugfixes.
+rcs file: /cvsroot/programanalysis/src/analysej/typeanalysis/basictypeinference.java,v
+fixed bug in array reference handling
+activated computation of subclasses in getconcretesubclasses again and inserted a workaraind for recoder bug.
+removed bugs in garbagecollection
+mainly bugfixes.
+bugfix for superreference:
+rcs file: /cvsroot/programanalysis/src/analysej/typeanalysis/callnode.java,v
+removed bugs in garbagecollection
+mainly bugfixes.
+rcs file: /cvsroot/programanalysis/src/analysej/typeanalysis/dataflow.java,v
+further work on storing a node's changed predecessors. still bugs!!!
+removed bugs in garbagecollection
+mainly bugfixes.
+rcs file: /cvsroot/programanalysis/src/analysej/typeanalysis/flownode.java,v
+removed bugs in garbagecollection
+mainly bugfixes.
+rcs file: /cvsroot/programanalysis/src/analysej/typeanalysis/attic/garbagecollectiontest.java,v
+further work on storing a node's changed predecessors. still bugs!!!
+removed bugs in garbagecollection
+rcs file: /cvsroot/programanalysis/src/analysej/typeanalysis/hashedworklist.java,v
+further work on storing a node's changed predecessors. still bugs!!!
+mainly bugfixes.
+rcs file: /cvsroot/programanalysis/src/analysej/typeanalysis/methodhead.java,v
+further work on storing a node's changed predecessors. still bugs!!!
+removed bugs in garbagecollection
+mainly bugfixes.
+rcs file: /cvsroot/programanalysis/src/analysej/typeanalysis/multikey.java,v
+removed bugs in garbagecollection
+rcs file: /cvsroot/programanalysis/src/analysej/typeanalysis/attic/multikeytester.java,v
+rcs file: /cvsroot/programanalysis/src/analysej/typeanalysis/reactivationguardnode.java,v
+removed bugs in garbagecollection
+rcs file: /cvsroot/programanalysis/src/analysej/typeanalysis/recoderprogram.java,v
+mainly bugfixes.
+rcs file: /cvsroot/programanalysis/src/analysej/typeanalysis/superreference.java,v
+removed bugs in garbagecollection
+bugfix for superreference:
+rcs file: /cvsroot/programanalysis/src/analysej/typeanalysis/templatehead.java,v
+removed bugs in garbagecollection
+rcs file: /cvsroot/programanalysis/src/analysej/typeanalysis/attic/test.java,v
+rcs file: /cvsroot/programanalysis/src/analysej/typeanalysis/typecast.java,v
+removed bugs in garbagecollection
+mainly bugfixes.
+rcs file: /cvsroot/programanalysis/src/analysej/typeanalysis/typeconstructor.java,v
+removed bugs in garbagecollection
+mainly bugfixes.
+rcs file: /cvsroot/programanalysis/src/analysej/typeanalysis/typeinference.java,v
+rcs file: /cvsroot/programanalysis/src/analysej/typeanalysis/typeset.java,v
+rcs file: /cvsroot/programanalysis/src/analysej/typeanalysis/vcgexport.java,v
+removed bugs in garbagecollection
+mainly bugfixes.
+rcs file: /cvsroot/programanalysis/src/analysej/typeanalysis/variable.java,v
+further work on storing a node's changed predecessors. still bugs!!!
+removed bugs in garbagecollection
+rcs file: /cvsroot/programanalysis/src/recoder/agesentypeinfoserviceconfiguration.java,v
+rcs file: /cvsroot/programanalysis/src/recoder/basictypeinfoserviceconfiguration.java,v
+rcs file: /cvsroot/programanalysis/src/recoder/attic/typeinfoserviceconfiguration.java,v
+rcs file: /cvsroot/programanalysis/src/recoder/service/abstracttypeinfo.java,v
+rcs file: /cvsroot/programanalysis/src/recoder/service/agesentypeinfo.java,v
+rcs file: /cvsroot/programanalysis/src/recoder/service/basictypeinfo.java,v
+rcs file: /cvsroot/programanalysis/src/recoder/service/typeinfo.java,v
+rcs file: /cvsroot/programanalysis/src/recoder/service/typeinfonotreadyexception.java,v
