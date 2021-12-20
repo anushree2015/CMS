@@ -1,4 +1,4 @@
 # CMS
 Software change and defect data collection
-Run the following command in the terminal to run the project 
+Download CMS.jar and run the following command in the terminal to run the project 
 java -jar CMS.jar
